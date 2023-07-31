@@ -1,0 +1,3 @@
+# Ignore .replit and replit.nix files
+.replit
+replit.nix
